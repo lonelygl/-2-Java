@@ -24,6 +24,8 @@
 
 Структура проекта:
 
+<img width="902" height="397" alt="Снимок экрана 2025-11-23 в 23 54 07" src="https://github.com/user-attachments/assets/b129434f-1aca-49ef-b25b-44d9764b7a82" />
 
-![IMAGE 2025-11-23 23:49:32](https://github.com/user-attachments/assets/a93f3080-055e-4422-aeb0-6452f62c6417)
+
+
 
